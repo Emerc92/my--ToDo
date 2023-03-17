@@ -1,2 +1,2 @@
-# my--ToDo
+# my-ToDo
 Vaadin practice project 
